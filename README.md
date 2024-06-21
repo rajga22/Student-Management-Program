@@ -1,3 +1,5 @@
-This a java program for student management system. It is a menu based program which is made for adding a new student with a roll number, age and admit course. It is also Used for removal of students from a list, also used for updating any student informations and display the full list as well. 
-The whole program is basically operated using a menu and full project contains two programs there student.java and student managemnt.java. 
-Out of these two program student managemnt.java is the driver program. 
+This Java program is a straightforward student management system. It features a menu-based interface that allows users to easily add new students, including their roll numbers, ages, and admitted courses. Additionally, the program facilitates the removal of students from the list, updating student information, and displaying the complete list of students.
+
+The project comprises two main programs: `Student.java` and `StudentManagement.java`. The `StudentManagement.java` program serves as the driver.
+
+Currently, the program uses an ArrayList for data storage. Future enhancements will include converting the ArrayList to a file-based storage system, introducing new features such as departmental and semester segregation, and ensuring permanent record storage on a storage device.
